@@ -1,0 +1,13 @@
+.form-label{
+    font-weight: bold;
+}
+
+i{
+    color: white;
+}
+
+.payment-metod{
+    border-radius: 10px;
+    padding: 11px;
+    height: 35%;
+}
