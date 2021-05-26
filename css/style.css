@@ -6,8 +6,12 @@ i{
     color: white;
 }
 
+.card-header, .card-footer{
+    background-color: rgb(243, 243, 243);
+}
+
 .payment-metod{
     border-radius: 10px;
-    padding: 11px;
+    padding: 15px;
     height: 35%;
 }
